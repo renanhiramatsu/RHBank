@@ -9,8 +9,8 @@ and much more.
 # ❗ Future improvements
 - UI Design
 # 🔧 Running the project
-Clone this repository.
-Run on Microsoft Visual Studio. (Preferrably 2017 version)
+1. Clone this repository.
+2. Run on Microsoft Visual Studio. (Preferrably 2017 version)
 
 # 🔥 What I Used
 - Hash Maps/Nodes
