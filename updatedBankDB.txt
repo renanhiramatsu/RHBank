@@ -1,0 +1,161 @@
+Name: Amber Low
+Account Number: #719-54-7398
+Creation Date: 1999-12-29
+checking: $20
+Savings: $200
+Total: $220
+
+Name: Yusuf Quddus
+Account Number: #213-94-5149
+Creation Date: 2000-07-09
+checking: $453
+Savings: $50000
+Total: $50453
+
+Name: Renan Hiramatsu
+Account Number: #420-69-0666
+Creation Date: 2005-05-21
+checking: $0
+Savings: $0
+Total: $0
+
+Name: Nathan Wong
+Account Number: #123-12-1234
+Creation Date: 2018-12-05
+checking: $150
+Savings: $300
+Total: $450
+
+Name: Nabil Arbouz
+Account Number: #142-99-2382
+Creation Date: 1984-03-04
+checking: $2e+06
+Savings: $1e+09
+Total: $1.002e+09
+
+Name: Bob Bobson
+Account Number: #142-99-2123
+Creation Date: 1984-04-03
+checking: $2e+06
+Savings: $1e+09
+Total: $1.002e+09
+
+Name: Bob Bobson
+Account Number: #142-99-2123
+Creation Date: 1984-04-03
+checking: $2e+06
+Savings: $1e+09
+Total: $1.002e+09
+
+Name: Nabil Arbouz
+Account Number: #142-99-2382
+Creation Date: 1984-03-04
+checking: $2e+06
+Savings: $1e+09
+Total: $1.002e+09
+
+Name: Nathan Wong
+Account Number: #123-12-1234
+Creation Date: 2018-12-05
+checking: $150
+Savings: $300
+Total: $450
+
+Name: Renan Hiramatsu
+Account Number: #420-69-0666
+Creation Date: 2005-05-21
+checking: $0
+Savings: $0
+Total: $0
+
+Name: Yusuf Quddus
+Account Number: #213-94-5149
+Creation Date: 2000-07-09
+checking: $453
+Savings: $50000
+Total: $50453
+
+Name: Amber Low
+Account Number: #719-54-7398
+Creation Date: 1999-12-29
+checking: $20
+Savings: $200
+Total: $220
+
+Name: Amber Low
+Account Number: #719-54-7398
+Creation Date: 1999-12-29
+checking: $20
+Savings: $200
+Total: $220
+
+Name: Bob Bobson
+Account Number: #142-99-2123
+Creation Date: 1984-04-03
+checking: $2e+06
+Savings: $1e+09
+Total: $1.002e+09
+
+Name: Nabil Arbouz
+Account Number: #142-99-2382
+Creation Date: 1984-03-04
+checking: $2e+06
+Savings: $1e+09
+Total: $1.002e+09
+
+Name: Nathan Wong
+Account Number: #123-12-1234
+Creation Date: 2018-12-05
+checking: $150
+Savings: $300
+Total: $450
+
+Name: Renan Hiramatsu
+Account Number: #420-69-0666
+Creation Date: 2005-05-21
+checking: $0
+Savings: $0
+Total: $0
+
+Name: Yusuf Quddus
+Account Number: #213-94-5149
+Creation Date: 2000-07-09
+checking: $453
+Savings: $50000
+Total: $50453
+
+Name: Amber Low
+Account Number: #719-54-7398
+Creation Date: 1999-12-29
+checking: $20
+Savings: $200
+Total: $220
+
+Name: Yusuf Quddus
+Account Number: #213-94-5149
+Creation Date: 2000-07-09
+checking: $453
+Savings: $50000
+Total: $50453
+
+Name: Renan Hiramatsu
+Account Number: #420-69-0666
+Creation Date: 2005-05-21
+checking: $0
+Savings: $0
+Total: $0
+
+Name: Nathan Wong
+Account Number: #123-12-1234
+Creation Date: 2018-12-05
+checking: $150
+Savings: $300
+Total: $450
+
+Name: Bob Bobson
+Account Number: #142-99-2123
+Creation Date: 1984-04-03
+checking: $2e+06
+Savings: $1e+09
+Total: $1.002e+09
+
