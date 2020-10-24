@@ -19,4 +19,4 @@ You can see the preview screenshots here.
 - Stack
 
 # 👨 Contributors
-@renanhiramatsu
+[@renanhiramatsu](https://www.linkedin.com/in/renan-hiramatsu-83583216a/)
