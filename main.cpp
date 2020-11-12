@@ -184,7 +184,7 @@ void greeting()
 	system("cls");
 
 	cout << "========================================" << endl;
-	cout << "Welcome to Money Bank " << endl;
+	cout << "Welcome to RH Bank " << endl;
 	cout << "Press Enter to Continue . . . " << endl;
 	cout << "========================================" << endl;
 }
