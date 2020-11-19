@@ -1,9 +1,9 @@
 # 🏦 RH Bank
-This is a Bank application with possible future GUI implementation, for now command-line only.
+This is a Bank application with possible future UI implementation, for now command-line only.
 I reviewed many important concepts of Data Structures, including Binary Trees, HashMaps, Stack/Queue, Linked List
 and much more.
 # 📱 Preview
-You can see the preview screenshots here.
+You can see the preview screenshots [here.](https://www.renanhiramatsu.com/#3)
 
 # ❗ Future improvements
 - UI Design
