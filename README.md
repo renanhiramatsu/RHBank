@@ -6,7 +6,8 @@ and much more.
 You can see the preview screenshots [here.](https://www.renanhiramatsu.com/#3)
 
 # ❗ Future improvements
-- UI Design
+- Implement to a Mobile APP
+- Implement Crypto
 # 🔧 Running the project
 1. Clone this repository.
 2. Run on Microsoft Visual Studio. (Preferrably 2017 version)
